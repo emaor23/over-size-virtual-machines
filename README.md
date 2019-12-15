@@ -4,8 +4,7 @@
 
 VMware vRealize Operation 7.X or 8.X
 
-```
-TThis dashboard was created in vROps 7.0
+This dashboard was created in vROps 7.0
  
 Dashboard that show you summary of oversize Virtual machine with CPU and Memory.
 
